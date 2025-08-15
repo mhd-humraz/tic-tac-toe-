@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Demo](demo.gif) *(replace with actual demo gif/screenshot)*
+ 
 
 A responsive and interactive Tic-Tac-Toe game built with modern web technologies.
 
